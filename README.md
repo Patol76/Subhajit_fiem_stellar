@@ -1,7 +1,8 @@
 # ⚽ Soroban Sports Betting Smart Contract
 
 ## 📌 Project Description
-![Uploading image.png…]()
+<img width="1891" height="961" alt="image" src="https://github.com/user-attachments/assets/4eda7149-2186-4a01-9594-7aab42d090a5" />
+
 
 
 This project is a decentralized **sports betting smart contract** built using **Soroban (Stellar Smart Contracts)** and Rust.
